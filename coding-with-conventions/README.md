@@ -1,9 +1,12 @@
 # Coding More Effectively Through Conventions and Standards
 
-**Slides:**
+Presented on Wednesday, May 13th 2015 at the [Ember.js Portland Meetup](http://www.meetup.com/Ember-PDX/).
+
+**Slides**
+
 [https://slides.com/evrowe/coding-with-conventions](https://slides.com/evrowe/coding-with-conventions)
 
-**Extended Reading and Resources:**
+**Extended Reading and Resources**
 
 - [Code Guide by @mdo](http://codeguide.co/)
 - [JS Docs](http://usejsdoc.org/)
