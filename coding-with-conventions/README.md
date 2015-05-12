@@ -1,6 +1,22 @@
 # Coding More Effectively Through Conventions and Standards
 
-**Slides:** [https://slides.com/evrowe/coding-with-conventions](https://slides.com/evrowe/coding-with-conventions)
+**Slides:**
+[https://slides.com/evrowe/coding-with-conventions](https://slides.com/evrowe/coding-with-conventions)
+
+**Extended Reading and Resources:**
+
+- [Code Guide by @mdo](http://codeguide.co/)
+- [JS Docs](http://usejsdoc.org/)
+- [JS Hint](http://jshint.com/docs/)
+- [editorconfig](http://editorconfig.org/)
+
+**Sublime Plugins**
+
+- [DocBlockr](https://packagecontrol.io/packages/DocBlockr)
+- [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
+- [JSHint for SublimeLinter](https://packagecontrol.io/packages/SublimeLinter-jshint)
+- [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
+
 
 ## Why?
 
